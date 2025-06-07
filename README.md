@@ -86,3 +86,10 @@ npm install
 
 # Start the development server
 npm run dev
+
+📄 License
+This project is for educational purposes only and follows the Open Trivia Database's Creative Commons licensing.
+
+✍️ Author
+Noah Ragan – Coding Temple | January 2025 Cohort
+MotherTheresa646
